@@ -1,3 +1,11 @@
+//Example
+//Output:
+//Enter n 4
+//1      1
+//12    21
+//123  321
+//12344321
+
 #include <bits/stdc++.h>
 using namespace std;
 void pattern2(int n){
