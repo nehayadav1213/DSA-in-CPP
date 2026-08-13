@@ -1,13 +1,3 @@
-//Example Input:
-//4 5
-//
-//Output:
-//*****
-//*****
-//*****
-//*****
-
-
 #include <bits/stdc++.h>
 using namespace std;
 int main(){
